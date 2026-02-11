@@ -1,7 +1,7 @@
 # guns.lol like site
 Minimal snowy landing page / profile card inspired by guns.lol, built with React + Vite + Tailwind
 
-# ❄️ Snowy Profile Card
+# ❄️ Snowy Profile Loader Like Landing
 
 A minimal, aesthetic landing page and profile card inspired by guns.lol. Built for speed and simplicity.
 
@@ -13,7 +13,7 @@ A minimal, aesthetic landing page and profile card inspired by guns.lol. Built f
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech 
 * **React** + **Vite** (Lightning fast builds)
 * **Tailwind CSS** (Easy styling)
 * **HTML5 Canvas** (Smooth snow animations)
